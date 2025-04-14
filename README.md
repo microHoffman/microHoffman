@@ -1,3 +1,5 @@
+[![microHoffman's GitHub stats](https://github-readme-stats-ivory-seven-55.vercel.app/api?username=microhoffman&show=reviews,prs_merged&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars)](https://github.com/microhoffman/github-readme-stats)
+
 <!--
 ## Hi there 👋
 
